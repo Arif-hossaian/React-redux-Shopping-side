@@ -1,0 +1,53 @@
+{
+
+    "products": [
+        {
+            "_id": "dress1",
+            "title": "Casual mans punjabi",
+            "image": "images/panjabi1.png",
+            "description": "This is for all the latest trends, no matter who you are, where you’re from and what you’re up to. Exclusive to ASOS, our universal brand is here for you, and comes in all our fit ranges: ASOS Curve, Tall, Petite and Maternity. Created by us, styled by you.",
+            "price": 20,
+            "availableSizes": ["X", "L", "XL", "XXL"]
+        },
+        {
+            "_id": "dress2",
+            "title": "Cotton Silk Fabric Kurta Pajama In Brown Color.",
+            "image": "images/panjabi2.jpg",
+            "description": "This is for all the latest trends, no matter who you are, where you’re from and what you’re up to. Exclusive to ASOS, our universal brand is here for you, and comes in all our fit ranges: ASOS Curve, Tall, Petite and Maternity. Created by us, styled by you.",
+            "price":20,
+            "availableSizes": ["X", "M", "L"]
+        },
+        {
+            "_id": "dress3",
+            "title": "Italian type cross buttons indowestern sherwani",
+            "image": "images/panjabi3.jpg",
+            "description": "This is for all the latest trends, no matter who you are, where you’re from and what you’re up to. Exclusive to ASOS, our universal brand is here for you, and comes in all our fit ranges: ASOS Curve, Tall, Petite and Maternity. Created by us, styled by you.",
+            "price":20,
+            "availableSizes": ["X", "M", "L"]
+        },
+        {
+            "_id": "dress4",
+            "title": "Plain double Button Style Sherwani in Black",
+            "image": "images/panjabi4.jpg",
+            "description": "This is for all the latest trends, no matter who you are, where you’re from and what you’re up to. Exclusive to ASOS, our universal brand is here for you, and comes in all our fit ranges: ASOS Curve, Tall, Petite and Maternity. Created by us, styled by you.",
+            "price":20,
+            "availableSizes": ["XL"]
+        },
+        {
+            "_id": "dress5",
+            "title": "Brown Mens Indo Western",
+            "image": "images/panjabi5.jpg",
+            "description": "This is for all the latest trends, no matter who you are, where you’re from and what you’re up to. Exclusive to ASOS, our universal brand is here for you, and comes in all our fit ranges: ASOS Curve, Tall, Petite and Maternity. Created by us, styled by you.",
+            "price":20,
+            "availableSizes": ["X", "L", "XL"]
+        },
+        {
+            "_id": "dress6",
+            "title": "sherwani, indian wedding wear, groom sherwani",
+            "image": "images/panjabi6.jpg",
+            "description": "This is for all the latest trends, no matter who you are, where you’re from and what you’re up to. Exclusive to ASOS, our universal brand is here for you, and comes in all our fit ranges: ASOS Curve, Tall, Petite and Maternity. Created by us, styled by you.",
+            "price":20,
+            "availableSizes": ["XL", "XXL"]
+        }
+    ]
+}
