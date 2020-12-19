@@ -1,6 +1,7 @@
 //feature 1
 
-import {React, useState} from "react"
+import React, {useState} from "react"
+import Filter from "./components/Filter";
 import Products from "./components/Products"
 import data from "./data.json"
 
@@ -10,8 +11,10 @@ function App() {
 
     products: data.products,
     size: "",
-    sort: ""
-   })
+    sort: "",
+   });
+
+
   return (
     <div className="grid-conatainer">
       <header>
@@ -20,6 +23,10 @@ function App() {
       <main>
        <div className="content">
          <div className="main">
+         <Filter 
+         count={state.products.length}
+         size = {state.size}
+         sort = {state.sort}></Filter>
            <Products products={state.products}></Products>
          </div>
          <div className="sidebar">Cart items</div>
